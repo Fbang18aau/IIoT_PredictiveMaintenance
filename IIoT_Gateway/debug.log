@@ -1,0 +1,4 @@
+2022-12-13 15:52:06,595 - Debug Adapter (main) - CRITICAL - Debug adapter -> Extension: DEBUG_ADAPTER_STARTED
+2022-12-13 15:52:06,603 - Debug Adapter (main) - CRITICAL - Debug adapter -> Extension: DEBUG_ADAPTER_READY2CONNECT
+2022-12-13 15:52:12,287 - Debug Adapter (main) - WARNING - The operation took too long! - Measured 5.676323 s ( from ~ 15:52:06,611642)
+2022-12-13 15:58:44,608 - Debug Adapter (main) - CRITICAL - Debug adapter -> Extension: DEBUG_ADAPTER_STOPPED
